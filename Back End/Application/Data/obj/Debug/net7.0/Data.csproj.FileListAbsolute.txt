@@ -13,3 +13,21 @@ C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Data\obj\Debug\net7.0\Dat
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Data\obj\Debug\net7.0\refint\Data.dll
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Data\obj\Debug\net7.0\Data.pdb
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Data\obj\Debug\net7.0\ref\Data.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\bin\Debug\net7.0\Data.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\bin\Debug\net7.0\Entity.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\bin\Debug\net7.0\Entity.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\Data.sourcelink.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\Data.csproj.CopyComplete
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\Data.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Data\obj\Debug\net7.0\ref\Data.dll
