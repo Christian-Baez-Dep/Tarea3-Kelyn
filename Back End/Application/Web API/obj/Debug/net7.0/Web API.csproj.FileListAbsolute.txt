@@ -37,3 +37,43 @@ C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Web API\obj\Debug\net7.0\
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Web API\obj\Debug\net7.0\Web API.pdb
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Web API\obj\Debug\net7.0\Web API.genruntimeconfig.cache
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Web API\obj\Debug\net7.0\ref\Web API.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\appsettings.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Web API.exe
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Web API.deps.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Web API.runtimeconfig.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Web API.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Web API.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Data.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Entity.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Service.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Entity.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Service.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\bin\Debug\net7.0\Data.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.csproj.AssemblyReference.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.AssemblyInfoInputs.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.AssemblyInfo.cs
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.csproj.CoreCompileInputs.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.sourcelink.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\staticwebassets\msbuild.Web API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\staticwebassets\msbuild.build.Web API.props
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web API.props
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web API.props
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\scopedcss\bundle\Web API.styles.css
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.csproj.CopyComplete
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\refint\Web API.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\Web API.genruntimeconfig.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Web API\obj\Debug\net7.0\ref\Web API.dll
