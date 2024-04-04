@@ -3,9 +3,79 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
     
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@200;400;700;900&display=swap" rel="stylesheet">
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+<link rel="stylesheet" href="style.css">
+    <title>Iniciar Sesion</title>
+
+</head>
+<body id="body">
+    <div class="container">
+        <div class="info">
+            <div class="info-childs">
+                <h2>Bienvenido nuevamente!</h2>
+                <p>Por favor inserte sus credenciales para iniciar sesion</p>
+            </div>
+        </div>
+        <div class="container-form">
+            <div class="form-childs">
+                <form class="form" id = "form-login">
+                    <label >
+                        <i class='bx bx-envelope' ></i>
+                        <input type="email" placeholder="Correo Electronico" class="textFields" id="txtCorreoLogin">
+                    </label>
+
+                    <label >
+                        <i class='bx bx-lock-open-alt' ></i>
+                        <input type="text" placeholder="Contraseña" class="textFields" id="txtPasswordLogin">
+                    </label>
+                    <label >
+                        <input type="submit" value="Iniciar sesion" class="btnIniciar">
+                    </label>
+                </form>
+            </div>
+            <input type="button" value="Registrarse" id ="btnRegistrarse" class="btnRegistar">
+        </div>
+    </div>
+
+    <div class="container2 hide" id="container-register">
+        <div class="info">
+            <div class="info-childs">
+                <h2>Bienvenido!</h2>
+                <p>Por favor inserte sus credenciales para registrarse</p>
+            </div>
+        </div>
+        <div class="container-form">
+            <div class="form-childs">
+                <form class="form"  id="form-register" >
+                    <label >
+                        <i class='bx bxs-user'></i>
+                        <input type="text" placeholder="Usuario" class="textFields" id = "txtUsuario" required minlength="5">
+                    </label>
+                    <label >
+                        <i class='bx bx-envelope' ></i>
+                        <input type="email" placeholder="Correo Electronico" class="textFields" id ="txtCorreoRegister" required >
+                    </label>
+
+                    <label >
+                        <i class='bx bx-lock-open-alt' ></i>
+                        <input type="text" placeholder="Contraseña" class="textFields" id ="txtPasswordRegister" required minlength="10">
+                    </label>
+                    <label >
+                        <input type="submit" value="Registrarme" class="btnRegistar" id = "btnSubmitRegister" >
+                    </label>
+                </form>
+            </div>
+            <input type="button" value="Iniciar Sesion" id ="btnIniciarSesion" class="btnIniciar">
+        </div>
+    </div>
+
+    <script type="module" src="script-forms.js"></script>
+    <script type="module" src="script-Register.js"></script>
+    <script type="module" src="script-login.js"></script>
+
 </body>
 </html>
