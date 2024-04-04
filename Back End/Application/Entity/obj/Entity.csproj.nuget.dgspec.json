@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baez_\\Desktop\\P3 Tarea 3\\Back End\\Application\\Entity\\Entity.csproj": {}
+    "C:\\Users\\baez_\\Desktop\\Tarea 3 de P33\\Back End\\Application\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baez_\\Desktop\\P3 Tarea 3\\Back End\\Application\\Entity\\Entity.csproj": {
+    "C:\\Users\\baez_\\Desktop\\Tarea 3 de P33\\Back End\\Application\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baez_\\Desktop\\P3 Tarea 3\\Back End\\Application\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\baez_\\Desktop\\Tarea 3 de P33\\Back End\\Application\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\baez_\\Desktop\\P3 Tarea 3\\Back End\\Application\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\baez_\\Desktop\\Tarea 3 de P33\\Back End\\Application\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\baez_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baez_\\Desktop\\P3 Tarea 3\\Back End\\Application\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\baez_\\Desktop\\Tarea 3 de P33\\Back End\\Application\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,22 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -15,3 +15,23 @@ C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Service\obj\Debug\net7.0\
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Service\obj\Debug\net7.0\refint\Service.dll
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Service\obj\Debug\net7.0\Service.pdb
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Service\obj\Debug\net7.0\ref\Service.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\bin\Debug\net7.0\Service.runtimeconfig.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\bin\Debug\net7.0\Service.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\bin\Debug\net7.0\Data.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\bin\Debug\net7.0\Entity.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\bin\Debug\net7.0\Data.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\bin\Debug\net7.0\Entity.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\Service.sourcelink.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\Service.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\Service.genruntimeconfig.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Service\obj\Debug\net7.0\ref\Service.dll

@@ -9,3 +9,18 @@ C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Entity\obj\Debug\net7.0\E
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Entity\obj\Debug\net7.0\refint\Entity.dll
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Entity\obj\Debug\net7.0\Entity.pdb
 C:\Users\baez_\Desktop\P3 Tarea 3\Back End\Application\Entity\obj\Debug\net7.0\ref\Entity.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\bin\Debug\net7.0\Entity.runtimeconfig.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\bin\Debug\net7.0\Entity.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\bin\Debug\net7.0\Entity.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\obj\Debug\net7.0\Entity.sourcelink.json
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\obj\Debug\net7.0\Entity.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\obj\Debug\net7.0\Entity.pdb
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\obj\Debug\net7.0\Entity.genruntimeconfig.cache
+C:\Users\baez_\Desktop\Tarea 3 de P33\Back End\Application\Entity\obj\Debug\net7.0\ref\Entity.dll
