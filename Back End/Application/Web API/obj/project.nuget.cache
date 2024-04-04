@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fqmKeAgyNV//a7h66dkHWHZR9Ik0ntsRipt/8tlVXGVSBzWmXi6n2wB0hlemSFubGOghWJDOPhlKyr3pwFpDVQ==",
+  "dgSpecHash": "U9+iOd0WCr5EQao+lFadRXGKRikVGOk/xNdHML+f5b0KZdHa4akHwHGLmqlwgOwXqZUkIT7ymZ5U2cV0ir+fVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baez_\\Desktop\\P3 Tarea 3\\Back End\\Application\\Web API\\Web API.csproj",
+  "projectFilePath": "C:\\Users\\baez_\\Desktop\\Tarea 3 de P33\\Back End\\Application\\Web API\\Web API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\baez_\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\baez_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
